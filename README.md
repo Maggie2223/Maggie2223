@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-My name is Maggie and I am learning Java and C# through school (Monarch Insititute), with HTML, CSS and JavaScript covered 2024 - 2025.
+My name is Maggie and I reacently worked through Java and C# basics  with School (Monarch Insititute); HTML, CSS and JavaScript were covered end of 2024, beginning 2025.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
--  👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on code testing.
+- 🌱 I’m currently learning Design Patterns and Python.
+-  👯 I’m looking to collaborate on new projects where newbies are ok.
 
 <!--
 **Maggie2223/Maggie2223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
